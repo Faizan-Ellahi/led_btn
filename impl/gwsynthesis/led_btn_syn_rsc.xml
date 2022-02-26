@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Module name="led_btn" Lut="1">
+    <SubModule name="clock100"/>
+    <SubModule name="led_one_sec" Register="32" Alu="31" Lut="14"/>
+</Module>
